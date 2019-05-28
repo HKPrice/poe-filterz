@@ -10,7 +10,7 @@ This is a script built with native windows support in mind, grabbing custom filt
 
 
 Credits | Permission obtained | PoE Forum Link
---- | ---
+--- | --- | ---
 [NeverSink](https://github.com/NeverSinkDev) | False |  [Forum](https://www.pathofexile.com/forum/view-thread/1246208)
 [Ajido](reddit.com/user/Ajido/) | False | [Forum](https://www.pathofexile.com/forum/view-thread/1332504)
 [Androox](https://www.pathofexile.com/account/view-profile/Andr00x) | False | [Forum](https://www.pathofexile.com/forum/view-thread/2089969)
@@ -29,4 +29,4 @@ Credits | Permission obtained | PoE Forum Link
 
 Once completed, you may also follow the progress/comments on the Path of Exile forums
 
-Link: 
+Link:
