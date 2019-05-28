@@ -1,5 +1,5 @@
 # poe-filterz
-Path Of Exile Loot Filter Downloader Tool
+Path Of Exile Loot Filter Downloader Tool ![Logo](https://github.com/HKPrice/poe-filterz/blob/master/images/logo.jpg)
 
 This is a script built with native windows support in mind, grabbing custom filters from filter authors right to the default filter location on your pc.
 
