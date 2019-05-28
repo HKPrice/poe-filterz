@@ -1,0 +1,3 @@
+rem default filter location
+
+rem downloads folder
